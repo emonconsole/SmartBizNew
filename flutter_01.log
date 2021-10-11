@@ -1,0 +1,47 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run
+
+## exception
+
+RPCError: _flutter.listViews: (-32000) Bad state: The client closed with pending request "_flutter.listViews".
+
+```
+```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel beta, 1.24.0-10.2.pre, on Microsoft Windows [Version
+    10.0.19042.1052], locale en-US)
+    • Flutter version 1.24.0-10.2.pre at E:\flutter
+    • Framework revision 022b333a08 (7 months ago), 2020-11-18 11:35:09 -0800
+    • Engine revision 07c1eed46b
+    • Dart version 2.12.0 (build 2.12.0-29.10.beta)
+
+[✓] Android toolchain - develop for Android devices (Android SDK version 30.0.3)
+    • Android SDK at C:\Users\Emon\AppData\Local\Android\sdk
+    • Platform android-30, build-tools 30.0.3
+    • Java binary at: C:\Program Files\Android\Android Studio\jre\bin\java
+    • Java version OpenJDK Runtime Environment (build 1.8.0_202-release-1483-b03)
+    • All Android licenses accepted.
+
+[✓] Android Studio (version 3.5)
+    • Android Studio at C:\Program Files\Android\Android Studio
+    • Flutter plugin version 44.0.1
+    • Dart plugin version 191.8593
+    • Java version OpenJDK Runtime Environment (build 1.8.0_202-release-1483-b03)
+
+[✓] VS Code (version 1.57.1)
+    • VS Code at C:\Users\Emon\AppData\Local\Programs\Microsoft VS Code
+    • Flutter extension version 3.23.0
+
+[✓] Connected device (1 available)
+    • Android SDK built for x86 (mobile) • emulator-5554 • android-x86 • Android 10 (API
+      29) (emulator)
+
+• No issues found!
+```
